@@ -8,7 +8,7 @@
 
 # ===== Configuration =====
 $ComputerListPath = "C:\Temp\SoftwareInstall.txt"   # List of target computers
-$InstallerUNCPath = "E:\ITOPS\Rapid7\install.cmd"  # Path to the .cmd installer
+$InstallerUNCPath = "E:\Temp\Rapid7\install.cmd"  # Path to the .cmd installer
 $LogPath = "C:\Temp\SoftwareInstall_Log.txt"        # Log file location
 
 # ===== Validation =====
